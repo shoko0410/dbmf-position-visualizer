@@ -1,0 +1,23 @@
+name: Update DBMF holdings
+
+on:
+  schedule:
+    - cron: "15 11 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm run update
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update DBMF holdings"
+          file_pattern: data/holdings.json

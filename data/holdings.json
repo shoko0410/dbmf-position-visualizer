@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.imgp.com/us/fund/us53700t8273-imgp-dbi-managed-futures-strategy-etf/#portfolio",
+  "fetchedAt": "2026-05-08T15:33:48.421Z",
+  "asOf": "05/08/2026",
+  "netAssets": 3542036199.99,
+  "holdings": [
+    {
+      "date": "05/08/2026",
+      "securityName": "US 2YR NOTE (CBT) JUN26",
+      "cusip": "ADI37RNZ8",
+      "ticker": "TUM6",
+      "sharesQty": -3021400000,
+      "marketValue": -3127267015.88,
+      "weight": -0.88
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "JPN YEN CURR FUT JUN26",
+      "cusip": "ADI2RVL57",
+      "ticker": "JYM6",
+      "sharesQty": -23826250,
+      "marketValue": -1524880000,
+      "weight": -0.43
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "US 10YR NOTE (CBT)JUN26",
+      "cusip": "ADI37KRJ5",
+      "ticker": "TYM6",
+      "sharesQty": -839100000,
+      "marketValue": -927336609.38,
+      "weight": -0.26
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "US LONG BOND(CBT) JUN26",
+      "cusip": "ADI37KQQ0",
+      "ticker": "USM6",
+      "sharesQty": -377300000,
+      "marketValue": -426938531.25,
+      "weight": -0.12
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "MSCI EAFEJUN26",
+      "cusip": "ADI2VB6S3",
+      "ticker": "MFSM6",
+      "sharesQty": -87600,
+      "marketValue": -268231200,
+      "weight": -0.08
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "GOLD 100 OZ FUTR JUN26",
+      "cusip": "ADI2SGLR1",
+      "ticker": "GCM6",
+      "sharesQty": -23900,
+      "marketValue": -112590510,
+      "weight": -0.03
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797UC9",
+      "ticker": "-",
+      "sharesQty": 30000000,
+      "marketValue": 29841220.8,
+      "weight": 0.01
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797TQ0",
+      "ticker": "-",
+      "sharesQty": 37000000,
+      "marketValue": 36693753.22,
+      "weight": 0.01
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797TP2",
+      "ticker": "-",
+      "sharesQty": 58000000,
+      "marketValue": 57560730.62,
+      "weight": 0.02
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797TU1",
+      "ticker": "-",
+      "sharesQty": 147000000,
+      "marketValue": 146635051.92,
+      "weight": 0.04
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797TF4",
+      "ticker": "-",
+      "sharesQty": 405000000,
+      "marketValue": 402781782.6,
+      "weight": 0.11
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "WTI CRUDEFUTURE JUL26",
+      "cusip": "ADI2VPZ01",
+      "ticker": "CLN6",
+      "sharesQty": 6282000,
+      "marketValue": 572101740,
+      "weight": 0.16
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "MSCI EMGMKT JUN26",
+      "cusip": "ADI2TZ711",
+      "ticker": "MESM6",
+      "sharesQty": 451850,
+      "marketValue": 768958330,
+      "weight": 0.22
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "S+P500 EMINI FUT JUN26",
+      "cusip": "ADI2TZ604",
+      "ticker": "ESM6",
+      "sharesQty": 122950,
+      "marketValue": 905280850,
+      "weight": 0.26
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797TN7",
+      "ticker": "-",
+      "sharesQty": 2121000000,
+      "marketValue": 2106419524.86,
+      "weight": 0.59
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "EURO FX CURR FUT JUN26",
+      "cusip": "ADI2VG967",
+      "ticker": "ECM6",
+      "sharesQty": 1907250000,
+      "marketValue": 2244928612.5,
+      "weight": 0.63
+    },
+    {
+      "date": "05/08/2026",
+      "securityName": "TOTAL NET ASSETS",
+      "cusip": "-",
+      "ticker": "-",
+      "sharesQty": null,
+      "marketValue": 3542036199.99,
+      "weight": null
+    }
+  ]
+}

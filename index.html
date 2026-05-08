@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DBMF Position Monitor</title>
+    <meta
+      name="description"
+      content="DBMF ETF daily holdings visualization from iM Global Partner portfolio data."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400;450;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <nav class="global-nav" aria-label="Global">
+      <div class="nav-inner">
+        <span class="brand-mark">DBMF</span>
+        <span>Positions</span>
+        <span>Exposure</span>
+        <span>Holdings</span>
+      </div>
+    </nav>
+
+    <nav class="sub-nav" aria-label="DBMF">
+      <div class="sub-nav-inner">
+        <strong>DBMF Managed Futures Exposure</strong>
+        <a
+          class="sub-nav-cta"
+          href="https://www.imgp.com/us/fund/us53700t8273-imgp-dbi-managed-futures-strategy-etf/#portfolio"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Source
+        </a>
+      </div>
+    </nav>
+
+    <main>
+      <section class="summary-band">
+        <div>
+          <p class="label">Holdings Date</p>
+          <strong id="asOf">-</strong>
+        </div>
+        <div>
+          <p class="label">Net Assets</p>
+          <strong id="netAssets">-</strong>
+        </div>
+        <div>
+          <p class="label">Net Exposure</p>
+          <strong id="netExposure">-</strong>
+        </div>
+        <div>
+          <p class="label">Gross Exposure</p>
+          <strong id="grossExposure">-</strong>
+        </div>
+      </section>
+
+      <section class="layout">
+        <div class="panel exposure-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Underlying Product</p>
+              <h2>Signed Exposure</h2>
+            </div>
+            <div class="legend">
+              <span><i class="long"></i>Long</span>
+              <span><i class="short"></i>Short</span>
+            </div>
+          </div>
+          <div id="classChart" class="class-chart"></div>
+        </div>
+
+        <div class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Largest Positions</p>
+              <h2>Top Movers</h2>
+            </div>
+          </div>
+          <div id="topPositions" class="top-positions"></div>
+        </div>
+      </section>
+
+      <section class="panel holdings-panel" id="portfolio">
+        <div class="section-head toolbar">
+          <div>
+            <p class="eyebrow">Daily Holdings</p>
+            <h2>Position Table</h2>
+          </div>
+          <div class="controls">
+            <input id="searchBox" type="search" placeholder="Search" />
+            <button id="toggleSign" type="button">Signed</button>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Security</th>
+                <th>Product</th>
+                <th>Class</th>
+                <th>Ticker</th>
+                <th>Shares Qty</th>
+                <th>Market Value</th>
+                <th>Weight</th>
+              </tr>
+            </thead>
+            <tbody id="holdingsBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span id="fetchedAt">-</span>
+      <span>Holdings can change daily and are not investment recommendations.</span>
+    </footer>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
