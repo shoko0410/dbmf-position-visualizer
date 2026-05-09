@@ -3,6 +3,7 @@ name: Update DBMF holdings
 on:
   schedule:
     - cron: "15 11 * * 1-5"
+    - cron: "0 21 * * 0-4"
   workflow_dispatch:
 
 permissions:
