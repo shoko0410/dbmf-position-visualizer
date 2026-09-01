@@ -1,178 +1,178 @@
 {
   "sourceUrl": "https://www.imgp.com/us/fund/us53700t8273-imgp-dbi-managed-futures-strategy-etf/#portfolio",
-  "fetchedAt": "2026-09-01T00:29:39.750Z",
-  "asOf": "08/31/2026",
-  "netAssets": 4072678565.3,
+  "fetchedAt": "2026-09-01T15:27:39.529Z",
+  "asOf": "09/01/2026",
+  "netAssets": 4108683850.64,
   "holdings": [
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "US 2YR NOTE (CBT) DEC26",
       "cusip": "ADI3BN6H1",
       "ticker": "TUZ6",
-      "sharesQty": -3842200000,
-      "marketValue": -3942907673.67,
-      "weight": -0.97
+      "sharesQty": -3776800000,
+      "marketValue": -3875645956.38,
+      "weight": -0.94
     },
     {
-      "date": "08/31/2026",
-      "securityName": "EURO FX CURR FUT SEP26",
-      "cusip": "ADI2TZ6C8",
-      "ticker": "ECU6",
-      "sharesQty": -1698125000,
-      "marketValue": -1967702343.75,
-      "weight": -0.48
-    },
-    {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "JPN YEN CURR FUT SEP26",
       "cusip": "ADI2VB430",
       "ticker": "JYU6",
-      "sharesQty": -30722500,
-      "marketValue": -1920617087.5,
-      "weight": -0.47
+      "sharesQty": -37875000,
+      "marketValue": -2372490000,
+      "weight": -0.58
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
+      "securityName": "EURO FX CURR FUT SEP26",
+      "cusip": "ADI2TZ6C8",
+      "ticker": "ECU6",
+      "sharesQty": -1766250000,
+      "marketValue": -2052824062.5,
+      "weight": -0.5
+    },
+    {
+      "date": "09/01/2026",
       "securityName": "US 10YR NOTE (CBT)DEC26",
       "cusip": "ADI39DKR8",
       "ticker": "TYZ6",
-      "sharesQty": -1665300000,
-      "marketValue": -1796442375,
-      "weight": -0.44
+      "sharesQty": -1706100000,
+      "marketValue": -1836723281.25,
+      "weight": -0.45
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "US LONG BOND(CBT) DEC26",
       "cusip": "ADI39KYC0",
       "ticker": "USZ6",
-      "sharesQty": -880200000,
-      "marketValue": -961343437.5,
-      "weight": -0.24
+      "sharesQty": -729300000,
+      "marketValue": -792202125,
+      "weight": -0.19
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797SA6",
       "ticker": "-",
       "sharesQty": 8000000,
-      "marketValue": 7974674.72,
+      "marketValue": 7975440,
       "weight": 0
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UK1",
       "ticker": "-",
       "sharesQty": 30000000,
-      "marketValue": 29861643.6,
+      "marketValue": 29863970.4,
       "weight": 0.01
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UZ8",
       "ticker": "-",
       "sharesQty": 65000000,
-      "marketValue": 64461583.55,
+      "marketValue": 64467015.6,
       "weight": 0.02
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "MSCI EMGMKT SEP26",
       "cusip": "ADI2TZ703",
       "ticker": "MESU6",
-      "sharesQty": 55150,
-      "marketValue": 94565705,
+      "sharesQty": 42500,
+      "marketValue": 72721750,
       "weight": 0.02
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UM7",
       "ticker": "-",
       "sharesQty": 100000000,
-      "marketValue": 99316411,
+      "marketValue": 99326347,
       "weight": 0.02
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UH8",
       "ticker": "-",
       "sharesQty": 230000000,
-      "marketValue": 229440410,
+      "marketValue": 229463945.9,
       "weight": 0.06
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UL9",
       "ticker": "-",
       "sharesQty": 302000000,
-      "marketValue": 300380887.4,
+      "marketValue": 300407143.28,
       "weight": 0.07
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797SK4",
       "ticker": "-",
       "sharesQty": 312000000,
-      "marketValue": 310100397.36,
+      "marketValue": 310117161.12,
       "weight": 0.08
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "GOLD 100 OZ FUTR DEC26",
       "cusip": "ADI2XJBP4",
       "ticker": "GCZ6",
-      "sharesQty": 71100,
-      "marketValue": 322075890,
-      "weight": 0.08
+      "sharesQty": 102300,
+      "marketValue": 458457450,
+      "weight": 0.11
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "WTI CRUDEFUTURE NOV26",
       "cusip": "ADI2WTJQ3",
       "ticker": "CLX6",
-      "sharesQty": 6484000,
-      "marketValue": 530585720,
-      "weight": 0.13
+      "sharesQty": 6821000,
+      "marketValue": 573373260,
+      "weight": 0.14
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "MSCI EAFESEP26",
       "cusip": "ADI2VCFQ5",
       "ticker": "MFSU6",
-      "sharesQty": 323100,
-      "marketValue": 1046133180,
-      "weight": 0.26
+      "sharesQty": 342600,
+      "marketValue": 1106186880,
+      "weight": 0.27
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "S+P500 EMINI FUT SEP26",
       "cusip": "ADI2VD0L0",
       "ticker": "ESU6",
-      "sharesQty": 139750,
-      "marketValue": 1079149500,
-      "weight": 0.26
+      "sharesQty": 193200,
+      "marketValue": 1487446800,
+      "weight": 0.36
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UJ4",
       "ticker": "-",
       "sharesQty": 2036000000,
-      "marketValue": 2028061717.44,
-      "weight": 0.5
+      "marketValue": 2028236609.84,
+      "weight": 0.49
     },
     {
-      "date": "08/31/2026",
+      "date": "09/01/2026",
       "securityName": "TOTAL NET ASSETS",
       "cusip": "-",
       "ticker": "-",
       "sharesQty": null,
-      "marketValue": 4072678565.3,
+      "marketValue": 4108683850.64,
       "weight": null
     }
   ]
