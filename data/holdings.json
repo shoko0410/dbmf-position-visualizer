@@ -1,178 +1,178 @@
 {
   "sourceUrl": "https://www.imgp.com/us/fund/us53700t8273-imgp-dbi-managed-futures-strategy-etf/#portfolio",
-  "fetchedAt": "2026-10-22T23:55:54.788Z",
-  "asOf": "10/22/2026",
-  "netAssets": 5413403074.85,
+  "fetchedAt": "2026-10-23T15:44:06.299Z",
+  "asOf": "10/23/2026",
+  "netAssets": 5133898585.85,
   "holdings": [
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "US 2YR NOTE (CBT) DEC26",
       "cusip": "ADI3BN6H1",
       "ticker": "TUZ6",
       "sharesQty": -4895000000,
-      "marketValue": -4983913073.7,
-      "weight": -0.92
+      "marketValue": -5001313281.25,
+      "weight": -0.97
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "US 10YR NOTE (CBT)DEC26",
       "cusip": "ADI39DKR8",
       "ticker": "TYZ6",
       "sharesQty": -3914000000,
-      "marketValue": -4113980937.5,
-      "weight": -0.76
+      "marketValue": -4164740625,
+      "weight": -0.81
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "EURO FX CURR FUT DEC26",
       "cusip": "ADI2RVYK0",
       "ticker": "ECZ6",
       "sharesQty": -3284000000,
-      "marketValue": -3694007400,
-      "weight": -0.68
+      "marketValue": -3692201200,
+      "weight": -0.72
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "US LONG BOND(CBT) DEC26",
       "cusip": "ADI39KYC0",
       "ticker": "USZ6",
       "sharesQty": -968700000,
-      "marketValue": -1022281218.75,
-      "weight": -0.19
+      "marketValue": -1043774250,
+      "weight": -0.2
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "MSCI EAFEDEC26",
       "cusip": "ADI2VD121",
       "ticker": "MFSZ6",
       "sharesQty": -202550,
-      "marketValue": -634184050,
+      "marketValue": -628310100,
       "weight": -0.12
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UM7",
       "ticker": "-",
       "sharesQty": 55000000,
-      "marketValue": 54916797.1,
+      "marketValue": 54923058.3,
       "weight": 0.01
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WS2",
       "ticker": "-",
       "sharesQty": 60000000,
-      "marketValue": 59295892.2,
+      "marketValue": 59311669.8,
       "weight": 0.01
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "GOLD 100 OZ FUTR DEC26",
       "cusip": "ADI2XJBP4",
       "ticker": "GCZ6",
       "sharesQty": 27100,
-      "marketValue": 112465000,
+      "marketValue": 110036840,
       "weight": 0.02
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WU7",
       "ticker": "-",
       "sharesQty": 250000000,
-      "marketValue": 245104375,
+      "marketValue": 245214637.5,
       "weight": 0.05
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "MSCI EMGMKT DEC26",
       "cusip": "ADI2VCHN0",
       "ticker": "MESZ6",
       "sharesQty": 160500,
-      "marketValue": 260748300,
+      "marketValue": 253204800,
       "weight": 0.05
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VQ7",
       "ticker": "-",
       "sharesQty": 300100000,
-      "marketValue": 291032409.48,
-      "weight": 0.05
+      "marketValue": 291287080.34,
+      "weight": 0.06
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "JPN YEN CURR FUT DEC26",
       "cusip": "ADI2RTRS6",
       "ticker": "JYZ6",
       "sharesQty": 5150000,
-      "marketValue": 326741750,
+      "marketValue": 329806000,
       "weight": 0.06
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VG9",
       "ticker": "-",
       "sharesQty": 375000000,
-      "marketValue": 372981558.75,
+      "marketValue": 373027515,
       "weight": 0.07
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WJ2",
       "ticker": "-",
       "sharesQty": 510000000,
-      "marketValue": 489161802.9,
-      "weight": 0.09
+      "marketValue": 489786660,
+      "weight": 0.1
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WA1",
       "ticker": "-",
       "sharesQty": 605000000,
-      "marketValue": 582584834.7,
+      "marketValue": 583255471.15,
       "weight": 0.11
     },
     {
-      "date": "10/22/2026",
-      "securityName": "WTI CRUDEFUTURE DEC26",
-      "cusip": "ADI2BD9Y5",
-      "ticker": "CLZ6",
+      "date": "10/23/2026",
+      "securityName": "WTI CRUDEFUTURE JAN27",
+      "cusip": "ADI35D482",
+      "ticker": "CLF7",
       "sharesQty": 6469000,
-      "marketValue": 628463350,
+      "marketValue": 630856880,
       "weight": 0.12
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "S+P500 EMINI FUT DEC26",
       "cusip": "ADI2VB4H9",
       "ticker": "ESZ6",
       "sharesQty": 170750,
-      "marketValue": 1331892687.5,
-      "weight": 0.25
+      "marketValue": 1315543375,
+      "weight": 0.26
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VR5",
       "ticker": "-",
       "sharesQty": 1946000000,
-      "marketValue": 1880163628.56,
-      "weight": 0.35
+      "marketValue": 1882142924.62,
+      "weight": 0.37
     },
     {
-      "date": "10/22/2026",
+      "date": "10/23/2026",
       "securityName": "TOTAL NET ASSETS",
       "cusip": "-",
       "ticker": "-",
       "sharesQty": null,
-      "marketValue": 5413403074.85,
+      "marketValue": 5133898585.85,
       "weight": null
     }
   ]
