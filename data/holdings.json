@@ -1,178 +1,178 @@
 {
   "sourceUrl": "https://www.imgp.com/us/fund/us53700t8273-imgp-dbi-managed-futures-strategy-etf/#portfolio",
-  "fetchedAt": "2026-10-25T23:06:32.441Z",
-  "asOf": "10/23/2026",
-  "netAssets": 5133898585.85,
+  "fetchedAt": "2026-10-26T17:22:09.251Z",
+  "asOf": "10/26/2026",
+  "netAssets": 5177553750.4,
   "holdings": [
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "US 2YR NOTE (CBT) DEC26",
       "cusip": "ADI3BN6H1",
       "ticker": "TUZ6",
       "sharesQty": -4895000000,
-      "marketValue": -5001313281.25,
+      "marketValue": -4997106665.1,
       "weight": -0.97
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "US 10YR NOTE (CBT)DEC26",
       "cusip": "ADI39DKR8",
       "ticker": "TYZ6",
       "sharesQty": -3914000000,
-      "marketValue": -4164740625,
-      "weight": -0.81
+      "marketValue": -4154955625,
+      "weight": -0.8
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "EURO FX CURR FUT DEC26",
       "cusip": "ADI2RVYK0",
       "ticker": "ECZ6",
       "sharesQty": -3284000000,
-      "marketValue": -3692201200,
-      "weight": -0.72
+      "marketValue": -3683334400,
+      "weight": -0.71
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "US LONG BOND(CBT) DEC26",
       "cusip": "ADI39KYC0",
       "ticker": "USZ6",
       "sharesQty": -968700000,
-      "marketValue": -1043774250,
+      "marketValue": -1038930750,
       "weight": -0.2
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "MSCI EAFEDEC26",
       "cusip": "ADI2VD121",
       "ticker": "MFSZ6",
       "sharesQty": -202550,
-      "marketValue": -628310100,
+      "marketValue": -625008535,
       "weight": -0.12
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797UM7",
       "ticker": "-",
       "sharesQty": 55000000,
-      "marketValue": 54923058.3,
+      "marketValue": 54940238.65,
       "weight": 0.01
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WS2",
       "ticker": "-",
       "sharesQty": 60000000,
-      "marketValue": 59311669.8,
+      "marketValue": 59329275,
       "weight": 0.01
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "GOLD 100 OZ FUTR DEC26",
       "cusip": "ADI2XJBP4",
       "ticker": "GCZ6",
       "sharesQty": 27100,
-      "marketValue": 110036840,
+      "marketValue": 108614090,
       "weight": 0.02
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WU7",
       "ticker": "-",
       "sharesQty": 250000000,
-      "marketValue": 245214637.5,
+      "marketValue": 245272187.5,
       "weight": 0.05
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "MSCI EMGMKT DEC26",
       "cusip": "ADI2VCHN0",
       "ticker": "MESZ6",
       "sharesQty": 160500,
-      "marketValue": 253204800,
+      "marketValue": 254248050,
       "weight": 0.05
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VQ7",
       "ticker": "-",
       "sharesQty": 300100000,
-      "marketValue": 291287080.34,
+      "marketValue": 291306475.8,
       "weight": 0.06
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "JPN YEN CURR FUT DEC26",
       "cusip": "ADI2RTRS6",
       "ticker": "JYZ6",
       "sharesQty": 5150000,
-      "marketValue": 329806000,
+      "marketValue": 329625750,
       "weight": 0.06
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VG9",
       "ticker": "-",
       "sharesQty": 375000000,
-      "marketValue": 373027515,
+      "marketValue": 373150781.25,
       "weight": 0.07
     },
     {
-      "date": "10/23/2026",
-      "securityName": "TREASURY BILL",
-      "cusip": "912797WJ2",
-      "ticker": "-",
-      "sharesQty": 510000000,
-      "marketValue": 489786660,
-      "weight": 0.1
-    },
-    {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797WA1",
       "ticker": "-",
       "sharesQty": 605000000,
-      "marketValue": 583255471.15,
+      "marketValue": 583245881.9,
       "weight": 0.11
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
+      "securityName": "TREASURY BILL",
+      "cusip": "912797WJ2",
+      "ticker": "-",
+      "sharesQty": 610000000,
+      "marketValue": 585874500,
+      "weight": 0.11
+    },
+    {
+      "date": "10/26/2026",
       "securityName": "WTI CRUDEFUTURE JAN27",
       "cusip": "ADI35D482",
       "ticker": "CLF7",
       "sharesQty": 6469000,
-      "marketValue": 630856880,
-      "weight": 0.12
+      "marketValue": 652980860,
+      "weight": 0.13
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "S+P500 EMINI FUT DEC26",
       "cusip": "ADI2VB4H9",
       "ticker": "ESZ6",
       "sharesQty": 170750,
-      "marketValue": 1315543375,
-      "weight": 0.26
+      "marketValue": 1307902312.5,
+      "weight": 0.25
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TREASURY BILL",
       "cusip": "912797VR5",
       "ticker": "-",
       "sharesQty": 1946000000,
-      "marketValue": 1882142924.62,
-      "weight": 0.37
+      "marketValue": 1882132007.56,
+      "weight": 0.36
     },
     {
-      "date": "10/23/2026",
+      "date": "10/26/2026",
       "securityName": "TOTAL NET ASSETS",
       "cusip": "-",
       "ticker": "-",
       "sharesQty": null,
-      "marketValue": 5133898585.85,
+      "marketValue": 5177553750.4,
       "weight": null
     }
   ]
